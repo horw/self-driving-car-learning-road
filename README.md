@@ -11,3 +11,7 @@ ROS video
 ```
 https://www.bilibili.com/video/BV1mJ411R7Ni/?share_source=copy_web
 ```
+ROS text tutorial
+```
+http://www.autolabor.com.cn
+```
