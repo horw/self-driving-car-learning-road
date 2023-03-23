@@ -5,7 +5,7 @@ https://learn.udacity.com/courses/ud0419/lessons/
 https://github.com/ApolloAuto/apollo
 ```
 ```
-https://apollo.baidu.com/community/course/outline/
+[Apollo Baidu Course](https://apollo.baidu.com/community/course/outline/)
 ```
 ROS video
 ```
@@ -16,6 +16,8 @@ ROS text tutorial
 http://www.autolabor.com.cn
 ```
 ```
-brief introduction about ROS
-http://docs.voltbro.ru/starting-ros/messaging/message.html
+[Brief introduction about ROS](http://docs.voltbro.ru/starting-ros/messaging/message.html)
+```
+```
+[Docker+Python+ROS](https://github.com/ginomempin/sample-dockerized-ros2-node)
 ```
