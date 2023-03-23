@@ -18,6 +18,5 @@ http://www.autolabor.com.cn
 ```
 [Brief introduction about ROS](http://docs.voltbro.ru/starting-ros/messaging/message.html)
 ```
-```
 [Docker+Python+ROS](https://github.com/ginomempin/sample-dockerized-ros2-node)
-```
+
