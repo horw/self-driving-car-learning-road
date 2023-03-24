@@ -9,3 +9,6 @@
 1. [Brief introduction about ROS](http://docs.voltbro.ru/starting-ros/messaging/message.html)
 2. [Docker+Python+ROS](https://github.com/ginomempin/sample-dockerized-ros2-node)
 3. [AutoLabor](http://www.autolabor.com.cn)
+
+## Helpfull links
+1. [Command in ros docker with env](https://stackoverflow.com/questions/55941916/unable-to-execute-catkin-commands-using-run-in-dockerfile) 
