@@ -26,3 +26,4 @@
 - **CMakeLists.txt**: CMake build file (see catkin/CMakeLists.txt)
 - **package.xml**: Package catkin/package.xml
 - **CHANGELOG.rst**: Many packages will define a changelog which can be automatically injected into binary packaging and into the wiki page for the package 
+[material](http://wiki.ros.org/Packages)
