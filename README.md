@@ -21,6 +21,8 @@
 
 ## Visialusation
 [ros3djs](https://github.com/deltaautonomy/delta_viz)
+[rosboard](https://github.com/dheera/rosboard)
+
 ## ROS package structure
 - **include/package_name**: C++ include headers (make sure to export in the CMakeLists.txt)
 - **msg/**: Folder containing Message (msg) types
