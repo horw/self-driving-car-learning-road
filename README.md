@@ -19,6 +19,8 @@
 ## Wiki
 [catkin](http://wiki.ros.org/catkin/commands)
 
+## Visialusation
+[ros3djs](https://github.com/deltaautonomy/delta_viz)
 ## ROS package structure
 - **include/package_name**: C++ include headers (make sure to export in the CMakeLists.txt)
 - **msg/**: Folder containing Message (msg) types
