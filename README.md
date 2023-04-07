@@ -19,6 +19,7 @@
 2. [ROS Wiki](http://wiki.ros.org/)
 3. [ROS Python Logger](https://github.com/ros/ros_comm/issues/1384)  **[solution 1](https://gist.github.com/nzjrs/8712011)** **[solution 2](https://docs.python-guide.org/writing/logging/)**
 4. [ROS 2](https://docs.ros.org/en/humble/Tutorials)
+5. [Video Tutorial about tf2, urdf...](https://articulatedrobotics.xyz/ready-for-ros-7-urdf/)
 
 ## Wiki
 [catkin](http://wiki.ros.org/catkin/commands)
