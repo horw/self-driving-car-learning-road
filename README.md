@@ -28,6 +28,7 @@
 ## Visialusation
 [ros3djs](https://github.com/deltaautonomy/delta_viz)
 [rosboard](https://github.com/dheera/rosboard)
+[carlaviz](https://carla.readthedocs.io/en/0.9.11/plugins_carlaviz/#download-the-plugin)
 
 ## ROS package structure
 - **include/package_name**: C++ include headers (make sure to export in the CMakeLists.txt)
