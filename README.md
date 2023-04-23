@@ -45,10 +45,10 @@
 [reinforcement learning](https://pythonprogramming.net/introduction-reinforcement-learning-stable-baselines-3-tutorial/)
 
 ## MOT object tracking
-[Apollo Every model build separate](https://github.com/ApolloAuto/apollo/issues/2629)
-[SORT VS DEEP SORT](https://www.linkedin.com/pulse/object-tracking-sort-deepsort-daniel-pleus/?trk=pulse-article_more-articles_related-content-card)
-[car counter](https://www.youtube.com/watch?v=WgPbbWmnXJ8&t=7675s)
-[kalman](https://www.youtube.com/watch?v=3iqRhbXBVRE)
-[python ex: motpy](https://github.com/wmuron/motpy)
-[CS 582 problem](https://cs-people.bu.edu/ainezm/cs585-A4-sidmys-ainezm.html)
-[MOT challenge](https://motchallenge.net/)
+1. [Apollo Every model build separate](https://github.com/ApolloAuto/apollo/issues/2629)
+2. [SORT VS DEEP SORT](https://www.linkedin.com/pulse/object-tracking-sort-deepsort-daniel-pleus/?trk=pulse-article_more-articles_related-content-card)
+3. [car counter](https://www.youtube.com/watch?v=WgPbbWmnXJ8&t=7675s)
+4. [kalman](https://www.youtube.com/watch?v=3iqRhbXBVRE)
+5. [python ex: motpy](https://github.com/wmuron/motpy)
+6. [CS 582 problem](https://cs-people.bu.edu/ainezm/cs585-A4-sidmys-ainezm.html)
+7. [MOT challenge](https://motchallenge.net/)
