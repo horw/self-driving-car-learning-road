@@ -52,3 +52,6 @@
 5. [python ex: motpy](https://github.com/wmuron/motpy)
 6. [CS 582 problem](https://cs-people.bu.edu/ainezm/cs585-A4-sidmys-ainezm.html)
 7. [MOT challenge](https://motchallenge.net/)
+
+## Apollo
+[Install](https://www.jianshu.com/p/7a5a23e5ca31)
