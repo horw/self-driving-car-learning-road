@@ -4,35 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "2c7358cd81b78ebf",
+        "id": "af051d64a0bd2213",
         "type": "tabs",
         "children": [
           {
-            "id": "976776a8ed08d148",
+            "id": "adcecec36d17cb37",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7b7bbe0797b65aa4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Video.md",
-                "mode": "source",
-                "source": false
+                "file": "Self-Driving Car Engineer.md"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -62,7 +47,7 @@
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": false,
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -82,7 +67,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300.5
+    "width": 280.5
   },
   "right": {
     "id": "6bc2a5bc9e591182",
@@ -98,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Video.md",
+                "file": "Self-Driving Car Engineer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Video.md",
+                "file": "Self-Driving Car Engineer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,11 +123,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Video.md"
+                "file": "Self-Driving Car Engineer.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -159,12 +145,41 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7b7bbe0797b65aa4",
+  "active": "adcecec36d17cb37",
   "lastOpenFiles": [
+    "ML/Machine Learning.md",
+    "Self-Driving Car Engineer.md",
+    "ML.md",
     "README.md",
-    "Video.md",
-    "Untitled",
-    "self-driving-car-learning-road/README.md",
+    "ROS/ROS.md",
+    "SensorFusion/Sensor Fusion.md",
+    "ROS/Package Structure.md",
+    "ROS/Wiki.md",
+    "ROS/Visialusation.md",
+    "ROS/Video.md",
+    "Apollo/Install.md",
+    "Apollo/Video.md",
+    "Apollo/Apollo.md",
+    "Todo.md",
+    "SensorFusion/Tracking/MOT.md",
+    "ML/Reinforcement learning.md",
+    "! Get Start/Self-Driving Car Engineer.md",
+    "Get Start/Untitled.md",
+    "ROS/Links.md",
+    "ROS/Books.md",
+    "Apollo/main.md",
+    "Get Start/notes/some.md",
+    "kanban/notes/wttf @{2023-05-13}.md",
+    "kanban/notes/Package Structure.md",
+    "kanban/T.md",
+    "Untitled.md",
+    "! Get Start/notes",
+    "! Get Start",
+    "Apollo",
+    "SensorFusion/Tracking",
+    "SensorFusion",
+    "ML",
+    "ROS",
     "self-driving-car-learning-road"
   ]
 }
