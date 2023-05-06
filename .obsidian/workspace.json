@@ -4,16 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "af051d64a0bd2213",
+        "id": "93c0df62b9577a65",
         "type": "tabs",
         "children": [
           {
-            "id": "adcecec36d17cb37",
+            "id": "9640692581d62df3",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Self-Driving Car Engineer.md"
+                "file": "README.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Self-Driving Car Engineer.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Self-Driving Car Engineer.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Self-Driving Car Engineer.md"
+                "file": "README.md"
               }
             }
           }
@@ -132,7 +134,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 266.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -142,37 +144,38 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
       "command-palette:Open command palette": false
     }
   },
-  "active": "adcecec36d17cb37",
+  "active": "9640692581d62df3",
   "lastOpenFiles": [
-    "ML/Machine Learning.md",
     "Self-Driving Car Engineer.md",
-    "ML.md",
-    "README.md",
-    "ROS/ROS.md",
-    "SensorFusion/Sensor Fusion.md",
-    "ROS/Package Structure.md",
-    "ROS/Wiki.md",
-    "ROS/Visialusation.md",
-    "ROS/Video.md",
-    "Apollo/Install.md",
+    "Untitled.md",
     "Apollo/Video.md",
+    "Apollo/Install.md",
     "Apollo/Apollo.md",
-    "Todo.md",
-    "SensorFusion/Tracking/MOT.md",
     "ML/Reinforcement learning.md",
-    "! Get Start/Self-Driving Car Engineer.md",
-    "Get Start/Untitled.md",
+    "ML/Machine Learning.md",
+    "ROS/Package Structure.md",
     "ROS/Links.md",
     "ROS/Books.md",
+    "SensorFusion/Sensor Fusion.md",
+    "SensorFusion/Tracking/MOT.md",
+    "README.md",
+    "2023-05-06.md",
+    "ROS/ROS.md",
+    "Apollo/Drawing 2023-05-06 08.43.47.excalidraw.md",
+    "ROS/Video.md",
+    "ROS/Visialusation.md",
+    "ML.md",
+    "ROS/Wiki.md",
+    "Todo.md",
+    "! Get Start/Self-Driving Car Engineer.md",
+    "Get Start/Untitled.md",
     "Apollo/main.md",
     "Get Start/notes/some.md",
     "kanban/notes/wttf @{2023-05-13}.md",
-    "kanban/notes/Package Structure.md",
-    "kanban/T.md",
-    "Untitled.md",
     "! Get Start/notes",
     "! Get Start",
     "Apollo",
